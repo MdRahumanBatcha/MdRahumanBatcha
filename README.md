@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamed Rahuman Batcha A
+- 👋 Hi, I’m Mohamed Rahuman Batcha A, UG graduate at JP College of Arts and Science, Agarakattu, Tenkasi, holding CGPA of 75% in 2024. 
 - 👀 I’m interested in web development, IT fields
 - 🌱 I’m currently learning Python Full Stack Development at Vinsup Infotech pvt ltd, Aykudi, Tenkasi
 - 💞️ I’m looking to collaborate on ...
